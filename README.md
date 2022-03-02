@@ -1,4 +1,4 @@
 # sunrise
 My first repository on GitHub
 
-I like coffe and cats
+I like coffe, cats and pizza
